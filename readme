@@ -1,0 +1,2 @@
+# DividerGridItemDecoration
+Divider used by RecyclerView, LayoutManager is GridLayoutManager/StaggeredGridLayoutManager
